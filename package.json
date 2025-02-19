@@ -1,6 +1,6 @@
 {
   "name": "@sans-script/mathdeli2dollar",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Converts LaTeX math delimiters (\\[ ... \\] and \\( ... \\)) into dollar signs ($$ ... $$ and $ ... $).",
   "main": "index.js",
   "type": "module",
