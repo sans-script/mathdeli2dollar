@@ -1,6 +1,6 @@
 {
   "name": "mathdeli2dollar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Converts LaTeX math delimiters (\\[ ... \\] and \\( ... \\)) into dollar signs ($$ ... $$ and $ ... $).",
   "main": "index.js",
   "type": "module",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/sans-script/mathdeli2dollar/issues"
   },
-  "homepage": "https://github.com/sans-script/mathdeli2dollar#readme"
+  "homepage": "https://github.com/sans-script/mathdeli2dollar#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
