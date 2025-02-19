@@ -15,5 +15,13 @@
     "markdown"
   ],
   "author": "Alexandre Santos",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sans-script/mathdeli2dollar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sans-script/mathdeli2dollar/issues"
+  },
+  "homepage": "https://github.com/sans-script/mathdeli2dollar#readme"
 }
