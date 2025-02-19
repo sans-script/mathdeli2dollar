@@ -1,0 +1,19 @@
+{
+  "name": "mathdeli2dollar",
+  "version": "1.0.2",
+  "description": "Converts LaTeX math delimiters (\\[ ... \\] and \\( ... \\)) into dollar signs ($$ ... $$ and $ ... $).",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "latex",
+    "math",
+    "convert",
+    "delimiters",
+    "markdown"
+  ],
+  "author": "Alexandre Santos",
+  "license": "MIT"
+}
