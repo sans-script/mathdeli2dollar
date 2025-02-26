@@ -2,6 +2,8 @@
 
 `mathdeli2dollar` is a simple library to convert LaTeX math delimiters to dollar signs. It transforms LaTeX mathematical expressions wrapped in `\[ ... \]` and `\( ... \)` into `$$ ... $$` and `$ ... $`, respectively.
 
+<a href="https://github.com/sponsors/sans-script"><img src="https://badgen.net/badge/GitHub/Sponsor?icon=github" alt="Sponsor"></a> <a href="https://www.paypal.com/donate/?business=alexhere.user@gmail.com"><img src="https://badgen.net/badge/Donate%20via/PayPal?icon=paypal" alt="Donate via PayPal"></a>
+
 ## Installation
 
 You can install the package via npm:
@@ -30,6 +32,7 @@ The function will convert the input and return the text with the delimiters chan
 ```plaintext
 Example: $x^2 + y^2 = z^2$
 ```
+
 ## Contributing
 
 If you find any bugs or would like to add new features, feel free to **open an issue** or **submit a pull request**.
